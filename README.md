@@ -11,11 +11,13 @@ We'll see how many actually get completed.
   - Bunny: medium obstacle that hops up and down
   - Bear: large obstacle that runs on the ground
 - Player slows down and loses points after taking enough hits
+  - Instead of player slowing down, maybe speed up spawns and such?
+  - Player falls and needs to get up
 - Art and music change as game progresses
   - Player looks more battered, obstacles look scarier, background color gets darker
   - Music gets more distorted?
   - Maybe get "GIVE UP?" text show up every once in a while
-- Online leaderboard
+- ~~Online leaderboard~~ (doesn't serve purpose of game)
 
 ## To-do
 
